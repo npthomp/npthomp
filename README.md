@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @npthomp
 - 👀 I’m interested in learning new programming languages
 <!-- 🌱 I’m currently learning Rust-->
-- 📕 I have worked on personal projects with Java, C++, C#, and Python
+- 📕 I have worked on personal projects with Java, C++, C#, Python, and Dart + Flutter
 - ❤ I love working with Python
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
